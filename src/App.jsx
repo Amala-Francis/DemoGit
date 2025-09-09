@@ -16,6 +16,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
+      <h1>This new branch</h1>
+      <p>this is a short paragraph that describe about the branch</p>
       <h1>Next branch</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
