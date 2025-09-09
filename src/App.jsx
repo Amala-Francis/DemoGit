@@ -18,6 +18,9 @@ function App() {
       </div>
       <h1>This new branch</h1>
       <p>this is a short paragraph that describe about the branch</p>
+      <h1>Heading1</h1>
+      <h1>Heading2</h1>
+      <h1>Heading3</h1>
       <h1>Next branch</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
